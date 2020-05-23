@@ -1,6 +1,7 @@
 # TavernTable
 #### The authentic, extensible, visual way to play D&D electronically.  [See pitch document here.](https://docs.google.com/document/d/1SFVGsuoUwTVq0n53vMd_aqJGCszodNytv5VMjYUAXkA/edit?usp=sharing)
 
+##### Using Unity 2019.3.14f1
 -----
 
 Tavern Table is a flexible platform for playing tabletop RPGs online. It mimics the classic tabletop experience of using dice and battlemaps, while taking full advantage of the accessibility a digital platform provides.
